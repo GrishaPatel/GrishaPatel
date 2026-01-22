@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Grisha Patel
 
-<!--
-**GrishaPatel/GrishaPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Python | SQL | Pandas | Power BI | Excel  
 
-Here are some ideas to get you started:
+I am passionate about analyzing data, finding insights, and solving real-world problems using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
+- SQL (Joins, Subqueries, Window Functions)
+- Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+- Power BI / Tableau
+- Statistics & Probability
+- Data Cleaning & EDA
+
+
+
+## 📫 Connect with Me
+- LinkedIn:[ linkdin](https://www.linkedin.com/in/grisha-patel)
+- Email: patelgrisha30@gmail.com
+
