@@ -10,7 +10,7 @@ I am passionate about analyzing data, finding insights, and solving real-world p
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
 - SQL (Joins, Subqueries, Window Functions)
 - Excel (Pivot Tables, VLOOKUP, Data Cleaning)
-- Power BI / Tableau
+- Power BI 
 - Statistics & Probability
 - Data Cleaning & EDA
 
